@@ -69,10 +69,3 @@ Before running the project, ensure you have the following installed:
 - A Google API Key for Google Generative AI (used by LangChain)
 
 
-
-## 🚀 Setup Instructions
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Chintalasrikar/AI-Based-Customer-Support-Chatbot.git
-cd AI-Based-Customer-Support-Chatbot
